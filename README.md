@@ -21,7 +21,6 @@ O Projeto Spotify é uma aplicação que visa proporcionar uma experiência rica
 * GitHub
 * Node.Js
 
-
 ## Rodando o projeto
 <img src="src/assets/spotify.png" alt="Spotify width:300px; height:auto;">
-<p><a href="https://daniel-pantoja.github.io/spotify/" target="_blank">Clique aqui</a>para acessá-lo</p>
+<p><a href="https://daniel-pantoja.github.io/spotify/" target="_blank">Clique aqui</a> para acessá-lo</p>
